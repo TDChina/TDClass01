@@ -1,2 +1,6 @@
 # -*- coding: utf8 -*-
-print "啊啊啊"
+# import sys
+# reload(sys)
+# sys.setdefaultencoding('utf-8')
+
+print u'啊啊啊'
