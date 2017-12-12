@@ -1,0 +1,52 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Python Compiled files
+*.pyc
+
+# IDE file Compile files
+/.idea/
+/.vscode/
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Test file
+*_test.py
+/test/
+/apps/strack_desktop/StrackLog
+apps/strack_desktop/StrackLog
+apps/strack_im/ChatConnector2.py
+apps/strack_im/StrackLog
+pyLibs/__pycache__/
+stdLibs/std_qt/__pycache__/
