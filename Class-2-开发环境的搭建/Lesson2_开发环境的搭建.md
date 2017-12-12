@@ -30,7 +30,7 @@
 
 ## 相关资料
 
-- [课程总结导图](https://processon.com/mindmap/5a294669e4b0dce0803746cf)
+- [课程总结导图](https://processon.com/mindmap/5a2ff3a2e4b0c105af7adbdb)
 - [NotePad++官网下载地址](https://notepad-plus-plus.org/download)
 - [NotePad++配置Python运行环境](https://jingyan.baidu.com/article/d5a880eb8ce81813f047cc4b.html)
 - [PyCharm官网下载地址](https://www.jetbrains.com/pycharm/download)
