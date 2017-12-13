@@ -56,6 +56,7 @@ if c!=None and pg!=None:
 				f.write("}\n")
 
 				
+				
 		else:
 				tde4.postQuestionRequester("Export all Distort node To Nuke...","Error, couldn't save file.","Ok")
 else:
