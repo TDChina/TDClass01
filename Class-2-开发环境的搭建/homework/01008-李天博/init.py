@@ -1,3 +1,4 @@
+#创建路径
 import nuke
 
 nuke.pluginAddPath('//192.168.0.2/PythonDev/BC_ToolSet')
