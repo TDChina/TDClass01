@@ -28,10 +28,10 @@ while True:
     except ValueError:
         print 'ERROR,Please enter Numbers only: ',
         continue
-    if 0 <= rt_num <= 100:
+    if mn_num <= rt_num <= mx_num:
         break
     else:
-        print 'ERROR!Number must between 0 and 100: ',
+        print 'ERROR!Number must between %s and %s: ' % (mn_num, mx_num),
         continue
 
 # 电脑猜测
@@ -45,11 +45,17 @@ else:
             if my_guess <= mn_num:  # 逻辑判断
                 print 'Smaller than %d!? You cheated me!!' % mn_num
                 break
+            elif my_guess == mx_num:  # 逻辑判断
+                print 'Emm???????!! You cheated me!!'
+                break
             mx_num = my_guess
             my_guess = median(mn_num, mx_num)  # 取中位数
         elif bs.lower() in ['s', 'small']:
             if my_guess >= mx_num:  # 逻辑判断
                 print 'Bigger than %d!? You cheated me!!' % mx_num
+                break
+            elif my_guess == mn_num and my_guess != 0:  # 逻辑判断
+                print 'Emm???????!! You cheated me!!'
                 break
             mn_num = my_guess
             my_guess = median(mn_num, mx_num)  # 取中位数
@@ -64,8 +70,5 @@ else:
             print 'Aha! I guessed it with %s times.' % g_times
             break
         elif mn_num == mx_num:  # 逻辑判断
-            print 'Emm???????!! You cheated me!!'
-            break
-        elif g_times > 7:  # 逻辑判断
             print 'Emm???????!! You cheated me!!'
             break
