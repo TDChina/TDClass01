@@ -12,4 +12,4 @@ if __name__ == "__main__":
         s = "smaller" if goal > num_input else "bigger"
         num_input = raw_input("Your number is %s than the target. Please try again: " % s)
 
-    print "Congratulations!" if chances else "Sorry! The answer is %s." % goal
+    print "Congratulations!" if goal == num_input else "Sorry! The answer is %s." % goal
