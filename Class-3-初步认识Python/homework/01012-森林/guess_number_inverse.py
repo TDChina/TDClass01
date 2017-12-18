@@ -1,8 +1,14 @@
 # -*- coding: UTF-8 -*-
 
 
-# 取中值
 def median(min_num, max_num):
+    """
+        计算两个数字的中数
+    :param min_num: 小的数字
+    :param max_num: 大的数字
+    :return:
+        返回中值
+    """
     med_num = min_num + (max_num - min_num) / 2
     if max_num - min_num == 1:
         med_num = max_num
@@ -11,9 +17,10 @@ def median(min_num, max_num):
 
 # 初始化
 g_times = 1  # 计次
-mn_num = 0
-mx_num = 100
-my_guess = 0
+raw_mn_mun = 0  # 最小值
+mx_num = 100  # 最大值
+mn_num = raw_mn_mun
+my_guess = raw_mn_mun
 
 # 说明
 print '***  You can enter a number between %d and %d    ***' % (mn_num, mx_num)
@@ -42,19 +49,19 @@ else:
     while True:
         bs = raw_input('Wrong...too big or too small? [B/S]: ')
         if bs.lower() in ['b', 'big']:
-            if my_guess <= mn_num:  # 逻辑判断
+            if my_guess <= mn_num:  # 逻辑判断：用户认为电脑猜测的值过大，但电脑猜测值已经等于最小值
                 print 'Smaller than %d!? You cheated me!!' % mn_num
                 break
-            elif my_guess == mx_num:  # 逻辑判断
+            elif my_guess == mx_num:  # 逻辑判断：自相矛盾
                 print 'Emm???????!! You cheated me!!'
                 break
             mx_num = my_guess
             my_guess = median(mn_num, mx_num)  # 取中位数
         elif bs.lower() in ['s', 'small']:
-            if my_guess >= mx_num:  # 逻辑判断
+            if my_guess >= mx_num:  # 逻辑判断：用户认为电脑猜测的值过大，但电脑猜测值已经等于最大值
                 print 'Bigger than %d!? You cheated me!!' % mx_num
                 break
-            elif my_guess == mn_num and my_guess != 0:  # 逻辑判断
+            elif my_guess == mn_num and my_guess != raw_mn_mun:  # 逻辑判断：自相矛盾
                 print 'Emm???????!! You cheated me!!'
                 break
             mn_num = my_guess
