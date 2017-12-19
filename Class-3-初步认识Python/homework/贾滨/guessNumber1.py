@@ -1,25 +1,37 @@
 # -*- coding: utf-8 -*-
 import random
-
-number = random.randint(0, 101)
-count = 0
-print "你有10次机会"
-while count < 10:
-    user_number = int(raw_input("请输入一个0-100之间的整数："))
-
-    if user_number > number:
-        print "(!-_-) 对不起 大了\n========================================"
-    elif user_number < number:
-        print "(-_-!) 对不起 小了\n========================================"
-    elif user_number == number:
-        print "(^0^) 恭喜你 答对了\n========================================"
-
-    count += 1
-
-    if count == 10 or user_number == number:
-        user_10 = input("输入 ‘1’ 继续，输入‘0’ 退出：")
-        if user_10 == 1:
-            count = 0
-        elif user_10 == 0:
-            print "游戏结束"
+  
+number = random.randint(0, 100)
+print "测试随值=>", number, "<=你看不见我\n"
+count, more = 0, 5
+while count <= more:
+    # 循环计数器
+    while True:
+        # 循环非数字
+        user_number = raw_input("请输入0-100间的整数：")
+        if user_number.isdigit():
+            user_number = int(user_number)
             break
+        else:
+            print "错误:请输入一个'整数'"
+            
+    if user_number > number:
+        print "对不起，大了。你还有[", more - count, "]次机会。"
+    elif user_number < number:
+        print "对不起, 小了。你还有[", more - count, "]次机会。"
+    elif user_number == number:
+        print "恭喜你答对了。"
+        break
+
+    if count == more:
+        while count == more:
+            # 循环 继续 与 退出 非指定字符
+            user_continue_out = raw_input("'y'继续，'n'退出：")
+            if user_continue_out == "y" or user_continue_out == "n":
+                if user_continue_out == "y":
+                    count = 0
+                elif user_continue_out == "n":
+                    break
+            else:
+                print "错误:只能输入一个小写字母'y'或'n'"
+    count += 1
