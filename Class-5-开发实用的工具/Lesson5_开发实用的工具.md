@@ -6,45 +6,40 @@
 
 ## 课程大纲
 
-- 判断
-- 循环
-- 生成式
-- 递归
-- yeild
-- 高阶函数
+- 需求分析
+- 软件开发流程
+- 软件架构设计
+- 熟悉DCC软件二次开发模块
+- 软件构建技巧
+- Gui开发基础
+- 软件打包
 
 ## 课程案例
-- 修改序列名称
-- 批量移动贴图文件
-- 递归：绘制分形三角
+
+- 在Maya中批量移动贴图文件
 
 ## 课程作业
 
-- 写一个分解质因数的函数。要求传入一个正整数，返回此正整数的所有质数因数。
+- 在Maya中批量移动贴图文件
+- 在Nuke中批量移动read节点原素材位置
 
-## 补充思考题
-- 预估并验证以下代码的返回值，思考返回此值的原因。
+#### 作业涉及的技术
 
-    ```python
-    a = []
-    for i in range(10):
-        a.append(i * i)
-    
-    for a[i] in a:
-        print a[i]
-    ```
-- 预估并验证以下代码的返回值，思考返回此值的原因。
-    ```python
-    a = [1,2,3,4]
-    unc_list = []
-    for i in a:
-        func_list.append(lambda : i)
-    
-    for func in func_list:
-        print func()
-    ```
-    
+- 如何在Maya/Nuke中列举出所有的“贴图”/“Read”节点？
+    - `pm.ls(type="file")`
+    - `nuke.selectedNodes("Read")`
+- 如何获取节点属性信息？
+    - `maya_node.Attribute.get()`
+    - `nuke_node["file"].getValue()`
+- 如何移动文件并修改文件名称？
+    - `shitil.move(src, dst)`
+- 如何修改节点属性？
+    - `maya_node.Attribute.set(value)`
+    - `nuke_node["file"].setValue(value)`
+
 ## 相关资料
 
-- [课程思维导图]()
-- [递归算法的Python实现](http://blog.csdn.net/SeeTheWorld518/article/details/47957183)
+- [课程思维导图](https://processon.com/mindmap/5a38dadee4b07c8d893bb5b3)
+- [软件开发流程图](https://processon.com/diagraming/5a3b915ee4b0daa64fde2741)
+- [编程能力的构成思维导图](https://processon.com/mindmap/5a3b8a28e4b0daa64fde11f8)
+- [对软件架构设计的一些总结和理解](http://blog.csdn.net/cooldragon/article/details/48241965)
