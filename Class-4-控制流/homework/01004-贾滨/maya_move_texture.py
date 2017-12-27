@@ -9,7 +9,7 @@ reload(move_file)
 
 
 # 新的文件夹位置
-new_texture_dir = r"d:\Users\bin\Desktop\maya_move_texture\old_texture"
+new_texture_dir = r"d:\Users\bin\Desktop\maya_move_texture\new_texture"
 file_node_ls = pm.ls(typ="file")
 for old_file_node in file_node_ls:
     # 获取老贴图路径
