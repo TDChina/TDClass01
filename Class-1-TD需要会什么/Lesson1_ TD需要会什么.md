@@ -1,35 +1,35 @@
-## »ù±¾ĞÅÏ¢
+## åŸºæœ¬ä¿¡æ¯
 
-- **Ê±³¤** 1:46:46
-- [**¿Î³ÌÁ´½Ó**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549649970453234&vid=z1422agxseo)£¨½ö±¨ÃûÓÃ»§¿É¼û£©
+- **æ—¶é•¿** 1:46:46
+- [**è¯¾ç¨‹é“¾æ¥**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549649970453234&vid=z1422agxseo)ï¼ˆä»…æŠ¥åç”¨æˆ·å¯è§ï¼‰
 
 
-## ¿Î³Ì´ó¸Ù
+## è¯¾ç¨‹å¤§çº²
 
-- ĞĞÒµÇ°¾°
-- TDËØÖÊÒªÇó
-- Ñ§Ï°Â·Ïß
+- è¡Œä¸šå‰æ™¯
+- TDç´ è´¨è¦æ±‚
+- å­¦ä¹ è·¯çº¿
     - Python
     - Git
     - DCC SDK
     - Pipeline
-    - Èí¼ş¹¤³Ì
-- Ñ§Ï°Í¾¾¶
-    - ÔÄ¶ÁÎÄµµ
-    - ÊÓÆµ½Ì³Ì
-    - ÍøÂçËÑË÷
-    - ÌáÎÊ¼¼ÇÉ
-- ÍÆ¼ö½ÌÑ§
-- ÆäËû¼¼ÄÜ
+    - è½¯ä»¶å·¥ç¨‹
+- å­¦ä¹ é€”å¾„
+    - é˜…è¯»æ–‡æ¡£
+    - è§†é¢‘æ•™ç¨‹
+    - ç½‘ç»œæœç´¢
+    - æé—®æŠ€å·§
+- æ¨èæ•™å­¦
+- å…¶ä»–æŠ€èƒ½
 
 
-## Ïà¹Ø×ÊÁÏ
+## ç›¸å…³èµ„æ–™
 
-- [ÖªºõÎÊÌâ£ºÈçºÎÑ§Ï°ºÍÁ·Ï°Python](https://www.zhihu.com/question/28278283)
-- [ÖªºõÎÊÌâ£ºPythonÁ·Ï°ÏîÄ¿](https://www.zhihu.com/question/29372574)
-- [ÖªºõÎÊÌâ£ºÈçºÎ×ÔÑ§Python](https://www.zhihu.com/question/29138020)
-- [ÁÎÑ©·åÄ½¿ÎÍøPythonÈëÃÅ½Ì³Ì](http://www.imooc.com/learn/317)
-- [ÁÎÑ©·åÄ½¿ÎÍøPython½ø½×½Ì³Ì](http://www.imooc.com/learn/317)
-- [ÁÎÑ©·å¹ÙÍøGit½Ì³Ì](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+- [çŸ¥ä¹é—®é¢˜ï¼šå¦‚ä½•å­¦ä¹ å’Œç»ƒä¹ Python](https://www.zhihu.com/question/28278283)
+- [çŸ¥ä¹é—®é¢˜ï¼šPythonç»ƒä¹ é¡¹ç›®](https://www.zhihu.com/question/29372574)
+- [çŸ¥ä¹é—®é¢˜ï¼šå¦‚ä½•è‡ªå­¦Python](https://www.zhihu.com/question/29138020)
+- [å»–é›ªå³°æ…•è¯¾ç½‘Pythonå…¥é—¨æ•™ç¨‹](http://www.imooc.com/learn/317)
+- [å»–é›ªå³°æ…•è¯¾ç½‘Pythonè¿›é˜¶æ•™ç¨‹](http://www.imooc.com/learn/317)
+- [å»–é›ªå³°å®˜ç½‘Gitæ•™ç¨‹](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
 - [Github: awesome-python](https://github.com/vinta/awesome-python)
-- [ÊµÑéÂ¥Python°æ¿é](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&tag=Python&unfold=0)
+- [å®éªŒæ¥¼Pythonç‰ˆå—](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&tag=Python&unfold=0)

@@ -1,33 +1,33 @@
-## »ù±¾ĞÅÏ¢
+## åŸºæœ¬ä¿¡æ¯
 
-- **Ê±³¤** 1:39:57
-- [**¿Î³ÌÁ´½Ó**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549662855355122&vid=x1423vqtk9o)£¨½ö±¨ÃûÓÃ»§¿É¼û£©
+- **æ—¶é•¿** 1:39:57
+- [**è¯¾ç¨‹é“¾æ¥**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549662855355122&vid=x1423vqtk9o)ï¼ˆä»…æŠ¥åç”¨æˆ·å¯è§ï¼‰
 
 
-## ¿Î³Ì´ó¸Ù
+## è¯¾ç¨‹å¤§çº²
 
-- ÅĞ¶Ï
-- Ñ­»·
-- Éú³ÉÊ½
-- µİ¹é
+- åˆ¤æ–­
+- å¾ªç¯
+- ç”Ÿæˆå¼
+- é€’å½’
 - yeild
-- ¸ß½×º¯Êı
+- é«˜é˜¶å‡½æ•°
 
-## ¿Î³Ì°¸Àı
-- ĞŞ¸ÄĞòÁĞÃû³Æ
+## è¯¾ç¨‹æ¡ˆä¾‹
+- ä¿®æ”¹åºåˆ—åç§°
 
-## ¿Î³Ì×÷Òµ
+## è¯¾ç¨‹ä½œä¸š
 
-- ÔÚMayaÖĞÅúÁ¿ÒÆ¶¯ÌùÍ¼ÎÄ¼ş
-- ÔÚNukeÖĞÅúÁ¿ÒÆ¶¯read½ÚµãÔ­ËØ²ÄÎ»ÖÃ
+- åœ¨Mayaä¸­æ‰¹é‡ç§»åŠ¨è´´å›¾æ–‡ä»¶
+- åœ¨Nukeä¸­æ‰¹é‡ç§»åŠ¨readèŠ‚ç‚¹åŸç´ æä½ç½®
 
-## ²¹³äË¼¿¼Ìâ
-- µİ¹é£º»æÖÆ·ÖĞÎÈı½Ç(Ğª¶û±öË¹»ùÈı½Ç)
-- Ğ´Ò»¸ö·Ö½âÖÊÒòÊıµÄº¯Êı¡£ÒªÇó´«ÈëÒ»¸öÕıÕûÊı£¬·µ»Ø´ËÕıÕûÊıµÄËùÓĞÖÊÊıÒòÊı¡£
+## è¡¥å……æ€è€ƒé¢˜
+- é€’å½’ï¼šç»˜åˆ¶åˆ†å½¢ä¸‰è§’(æ­‡å°”å®¾æ–¯åŸºä¸‰è§’)
+- å†™ä¸€ä¸ªåˆ†è§£è´¨å› æ•°çš„å‡½æ•°ã€‚è¦æ±‚ä¼ å…¥ä¸€ä¸ªæ­£æ•´æ•°ï¼Œè¿”å›æ­¤æ­£æ•´æ•°çš„æ‰€æœ‰è´¨æ•°å› æ•°ã€‚
    
-## Ïà¹Ø×ÊÁÏ
+## ç›¸å…³èµ„æ–™
 
-- [¿Î³ÌË¼Î¬µ¼Í¼](https://processon.com/mindmap/5a34b9ede4b09415c8ace38f)
-- [Python yield Ê¹ÓÃÇ³Îö](https://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
-- [µİ¹éËã·¨µÄPythonÊµÏÖ](http://blog.csdn.net/SeeTheWorld518/article/details/47957183)
-- [CSDNÀí½âµİ¹é](http://blog.csdn.net/vagrxie/article/details/8470798)
+- [è¯¾ç¨‹æ€ç»´å¯¼å›¾](https://processon.com/mindmap/5a34b9ede4b09415c8ace38f)
+- [Python yield ä½¿ç”¨æµ…æ](https://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
+- [é€’å½’ç®—æ³•çš„Pythonå®ç°](http://blog.csdn.net/SeeTheWorld518/article/details/47957183)
+- [CSDNç†è§£é€’å½’](http://blog.csdn.net/vagrxie/article/details/8470798)

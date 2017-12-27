@@ -1,40 +1,40 @@
-## »ù±¾ĞÅÏ¢
+## åŸºæœ¬ä¿¡æ¯
 
-- **Ê±³¤** 1:40:43
-- [**¿Î³ÌÁ´½Ó**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549654265420530&vid=a1422gm9r4x)£¨½ö±¨ÃûÓÃ»§¿É¼û£©
+- **æ—¶é•¿** 1:40:43
+- [**è¯¾ç¨‹é“¾æ¥**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549654265420530&vid=a1422gm9r4x)ï¼ˆä»…æŠ¥åç”¨æˆ·å¯è§ï¼‰
 
 
-## ¿Î³Ì´ó¸Ù
+## è¯¾ç¨‹å¤§çº²
 
-- [0:05:00] PythonµÄ°²×°Óë³õ²½ÅäÖÃ
-- [0:13:30] GitµÄ°²×°Óë³õ²½ÅäÖÃ
-- [0:21:00] ¿ª·¢»·¾³µÄ»ù±¾½éÉÜ
-    - [0:22:35] ¿ª·¢»·¾³´î½¨µÄÄ¿µÄºÍÔ­Ôò
-    - [0:25:50] ¿ª·¢»·¾³´î½¨·¶Àı
-        - [0:26:07] ÔÚNotePad++ÖĞ´î½¨PythonÔËĞĞ»·¾³
-        - [0:35:35] ÔÚPyCharmÖĞ´î½¨ÔËĞĞµ÷ÊÔ»·¾³
-- [0:42:30] GitµÄ»ù´¡ÖªÊ¶
-    - [0:42:47] Git¿âµÄ½á¹¹
-    - [0:43:00] »ù±¾ÃüÁî
-    - [0::] Git·ÖÖ§µÄ¸ÅÄî
-- GithubµÄ»ù±¾Ê¹ÓÃ
-    - [1:08:00] ÈÏÊ¶Git remote¿â
-    - [1:03:25] ×éÖ¯Ğ­×÷»ù´¡
+- [0:05:00] Pythonçš„å®‰è£…ä¸åˆæ­¥é…ç½®
+- [0:13:30] Gitçš„å®‰è£…ä¸åˆæ­¥é…ç½®
+- [0:21:00] å¼€å‘ç¯å¢ƒçš„åŸºæœ¬ä»‹ç»
+    - [0:22:35] å¼€å‘ç¯å¢ƒæ­å»ºçš„ç›®çš„å’ŒåŸåˆ™
+    - [0:25:50] å¼€å‘ç¯å¢ƒæ­å»ºèŒƒä¾‹
+        - [0:26:07] åœ¨NotePad++ä¸­æ­å»ºPythonè¿è¡Œç¯å¢ƒ
+        - [0:35:35] åœ¨PyCharmä¸­æ­å»ºè¿è¡Œè°ƒè¯•ç¯å¢ƒ
+- [0:42:30] Gitçš„åŸºç¡€çŸ¥è¯†
+    - [0:42:47] Gitåº“çš„ç»“æ„
+    - [0:43:00] åŸºæœ¬å‘½ä»¤
+    - [0::] Gitåˆ†æ”¯çš„æ¦‚å¿µ
+- Githubçš„åŸºæœ¬ä½¿ç”¨
+    - [1:08:00] è®¤è¯†Git remoteåº“
+    - [1:03:25] ç»„ç»‡åä½œåŸºç¡€
     - pull requests
 
-## ¿Î³Ì×÷Òµ
+## è¯¾ç¨‹ä½œä¸š
 
- - ´î½¨×Ô¼ºµÄ¿ª·¢»·¾³
- - ÒÔ·ÖÖ§µÄĞÎÊ½Ìá½»¸öÈË×÷Òµµ½Github
- - ´´½¨Pull Request
+ - æ­å»ºè‡ªå·±çš„å¼€å‘ç¯å¢ƒ
+ - ä»¥åˆ†æ”¯çš„å½¢å¼æäº¤ä¸ªäººä½œä¸šåˆ°Github
+ - åˆ›å»ºPull Request
 
-## Ïà¹Ø×ÊÁÏ
+## ç›¸å…³èµ„æ–™
 
-- [¿Î³Ì×Ü½áµ¼Í¼](https://processon.com/mindmap/5a2ff3a2e4b0c105af7adbdb)
-- [NotePad++¹ÙÍøÏÂÔØµØÖ·](https://notepad-plus-plus.org/download)
-- [NotePad++ÅäÖÃPythonÔËĞĞ»·¾³](https://jingyan.baidu.com/article/d5a880eb8ce81813f047cc4b.html)
-- [PyCharm¹ÙÍøÏÂÔØµØÖ·](https://www.jetbrains.com/pycharm/download)
-- [Git¹Ù·½ÎÄµµ](https://git-scm.com/docs)
-- [Git³£ÓÃÃüÁî](http://hawx1993.github.io/2015/12/09/git/)
-- [Git×î¼ÑÊµ¼ù](http://legendtkl.com/2016/12/31/git-good-practice-gitflow/)
+- [è¯¾ç¨‹æ€»ç»“å¯¼å›¾](https://processon.com/mindmap/5a2ff3a2e4b0c105af7adbdb)
+- [NotePad++å®˜ç½‘ä¸‹è½½åœ°å€](https://notepad-plus-plus.org/download)
+- [NotePad++é…ç½®Pythonè¿è¡Œç¯å¢ƒ](https://jingyan.baidu.com/article/d5a880eb8ce81813f047cc4b.html)
+- [PyCharmå®˜ç½‘ä¸‹è½½åœ°å€](https://www.jetbrains.com/pycharm/download)
+- [Gitå®˜æ–¹æ–‡æ¡£](https://git-scm.com/docs)
+- [Gitå¸¸ç”¨å‘½ä»¤](http://hawx1993.github.io/2015/12/09/git/)
+- [Gitæœ€ä½³å®è·µ](http://legendtkl.com/2016/12/31/git-good-practice-gitflow/)
 
