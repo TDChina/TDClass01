@@ -1,34 +1,34 @@
-## »ù±¾ĞÅÏ¢
+## åŸºæœ¬ä¿¡æ¯
 
-- **Ê±³¤**
-- [**¿Î³ÌÁ´½Ó**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549671445289714&vid=g1423hawryc)£¨½ö±¨ÃûÓÃ»§¿É¼û£©
+- **æ—¶é•¿**
+- [**è¯¾ç¨‹é“¾æ¥**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549671445289714&vid=g1423hawryc)ï¼ˆä»…æŠ¥åç”¨æˆ·å¯è§ï¼‰
 
 
-## ¿Î³Ì´ó¸Ù
+## è¯¾ç¨‹å¤§çº²
 
-- Êı¾İ³Ö¾Ã»¯µÄÓ¦ÓÃ³¡¾°
-- Êı¾İ³Ö¾Ã»¯µÄ³£¼û·½Ê½
+- æ•°æ®æŒä¹…åŒ–çš„åº”ç”¨åœºæ™¯
+- æ•°æ®æŒä¹…åŒ–çš„å¸¸è§æ–¹å¼
 - Pickle
-- ±ê¼ÇÓïÑÔ
-- Êı¾İ¿â
+- æ ‡è®°è¯­è¨€
+- æ•°æ®åº“
 
-## ¿Î³Ì°¸Àı
+## è¯¾ç¨‹æ¡ˆä¾‹
 
-- ³¡¾°³õÊ¼»¯ÉèÖÃµÄµ¼³ö
+- åœºæ™¯åˆå§‹åŒ–è®¾ç½®çš„å¯¼å‡º
 
-## ¿Î³Ì×÷Òµ
+## è¯¾ç¨‹ä½œä¸š
 
-- ÊµÏÖÒ»¸ö×Ô¶¯»¯µÄÎÄ¼ş³õÊ¼»¯¹¦ÄÜ
+- å®ç°ä¸€ä¸ªè‡ªåŠ¨åŒ–çš„æ–‡ä»¶åˆå§‹åŒ–åŠŸèƒ½
 
-#### ×÷ÒµÉæ¼°µÄ¼¼Êõ
+#### ä½œä¸šæ¶‰åŠçš„æŠ€æœ¯
 
-- jsonµÄ¶ÁĞ´£¿
-- ÈçºÎÕÒµ½ÕıÈ·µÄmayaÃüÁî
+- jsonçš„è¯»å†™ï¼Ÿ
+- å¦‚ä½•æ‰¾åˆ°æ­£ç¡®çš„mayaå‘½ä»¤
 
 
-## Ïà¹Ø×ÊÁÏ
+## ç›¸å…³èµ„æ–™
 
-- [¿Î³ÌË¼Î¬µ¼Í¼](https://processon.com/mindmap/5a38dadee4b07c8d893bb5c9)
-- [jsonÓï·¨](http://json.org/)
-- [json³¡¾°ÃèÊöÓïÑÔAutodesk](https://area.autodesk.com/blogs/chris/json-scene-description-language/)
-- [ÈîÒ»·åyaml½Ì³Ì](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
+- [è¯¾ç¨‹æ€ç»´å¯¼å›¾](https://processon.com/mindmap/5a38dadee4b07c8d893bb5c9)
+- [jsonè¯­æ³•](http://json.org/)
+- [jsonåœºæ™¯æè¿°è¯­è¨€Autodesk](https://area.autodesk.com/blogs/chris/json-scene-description-language/)
+- [é˜®ä¸€å³°yamlæ•™ç¨‹](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
