@@ -2,7 +2,6 @@
 # Copyright (c) 2017 CineUse
 
 
-
 import random
  secret = random.randint(1,100)
  time = 10
