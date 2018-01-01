@@ -91,7 +91,7 @@ class View(object):
                                  button=['OK', 'Cancel'], defaultButton='OK',
                                  cancelButton='Cancel', dismissString='Cancel')
 
-        if result:
+        if result == 'OK':
             preset_name = pm.promptDialog(q=True, text=True)
             model.set_preset(preset_name)
             self.update(target=preset_name)
