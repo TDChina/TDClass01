@@ -1,7 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 import pymel.core as pm
 from . import model
-reload(model)
+
 
 def show():
     View()
