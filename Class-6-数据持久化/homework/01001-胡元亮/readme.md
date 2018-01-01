@@ -8,6 +8,6 @@ view.show()
 ```
 - Tips: More options can be managed by modifying:
 ```python
-model.preset_template
+proset.model.preset_template
 ```
-- Notice: ```presets.json``` should be removed after ```model.preset_template``` is changed.
+- Notice: ```presets.json``` should be removed after ```proset.model.preset_template``` is changed.
