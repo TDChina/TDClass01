@@ -1,7 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 import pymel.core as pm
 from . import model
-
+reload(model)
 
 def show():
     View()
@@ -78,17 +78,11 @@ class View(object):
             else:
                 current_preset = pm.optionMenu(self.prj_omg, q=True, value=True)
 
-        if current_preset == model.default:
-            for setter in self.setters:
-                for preset in model.preset_template:
-                    if preset['label'] == setter['label']:
-                        setter['type'](setter['control'], **{'e': True, setter['arg']: preset['getter']()})
-        else:
-            for preset in model.get_presets():
-                if current_preset == preset['name']:
-                    for setter in self.setters:
-                        setter['type'](setter['control'], **{'e': True, setter['arg']: preset[setter['label']]})
-                    model.apply(preset)
+        for preset in model.get_presets():
+            if current_preset == preset['name']:
+                for setter in self.setters:
+                    setter['type'](setter['control'], **{'e': True, setter['arg']: preset[setter['label']]})
+                model.apply(preset)
 
         pm.optionVar(stringValue=('currentPreset', current_preset))
 
@@ -99,14 +93,10 @@ class View(object):
 
         if result:
             preset_name = pm.promptDialog(q=True, text=True)
-            self.set(preset_name)
+            model.set_preset(preset_name)
+            self.update(target=preset_name)
 
     def save(self, *_):
-        self.set(pm.optionMenu(self.prj_omg, q=True, value=True))
-
-    def set(self, preset_name):
-        new_preset = {'name': preset_name}
-        for preset in model.preset_template:
-            new_preset[preset['label']] = preset['getter']()
-        model.set_preset(new_preset)
+        preset_name = pm.optionMenu(self.prj_omg, q=True, value=True)
+        model.set_preset(preset_name)
         self.update(target=preset_name)

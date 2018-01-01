@@ -40,20 +40,25 @@ def get_presets():
     return empty_preset
 
 
-def set_preset(preset):
-    pm.optionVar(stringValue=('currentPreset', preset['name']))
+def set_preset(preset_name):
+    pm.optionVar(stringValue=('currentPreset', preset_name))
+
+    new_preset = {'name': preset_name}
+    for preset in preset_template:
+        new_preset[preset['label']] = preset['getter']()
+
     with open(json_path) as f:
         presets = json.load(f)
 
     add = True
     for p in presets:
-        if preset['name'] == p['name']:
+        if new_preset['name'] == p['name']:
             add = False
-            for field in preset:
-                p[field] = preset[field]
+            for field in new_preset:
+                p[field] = new_preset[field]
 
     if add:
-        presets.append(preset)
+        presets.append(new_preset)
 
     with open(json_path, 'w') as f:
         json.dump(presets, f, indent=2)

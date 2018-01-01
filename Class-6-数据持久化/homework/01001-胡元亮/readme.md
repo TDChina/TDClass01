@@ -10,3 +10,4 @@ view.show()
 ```python
 model.preset_template
 ```
+- Notice: ```presets.json``` should be removed after ```model.preset_template``` is changed.
