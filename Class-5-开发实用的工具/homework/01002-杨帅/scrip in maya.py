@@ -1,3 +1,6 @@
+# coding=utf8
+
+
 import sys
 sys.path
 sys.path.append(r"D:\TDstudy\homework\lesson5")
