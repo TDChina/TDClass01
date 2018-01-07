@@ -1,7 +1,7 @@
 ## 基本信息
 
 - **时长**
-- [**课程链接**]()（仅报名用户可见）
+- [**课程链接**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549667150322418&vid=n1423s3gmql)（仅报名用户可见）
 
 
 ## 课程大纲
@@ -32,7 +32,7 @@
     - `maya_node.Attribute.get()`
     - `nuke_node["file"].getValue()`
 - 如何移动文件并修改文件名称？
-    - `shutil.move(src, dst)`
+    - `shitil.move(src, dst)`
 - 如何修改节点属性？
     - `maya_node.Attribute.set(value)`
     - `nuke_node["file"].setValue(value)`
