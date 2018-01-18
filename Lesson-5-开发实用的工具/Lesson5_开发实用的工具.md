@@ -1,6 +1,6 @@
 ## 基本信息
 
-- **时长**
+- **时长** 1:47:37
 - [**课程链接**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549667150322418&vid=n1423s3gmql)（仅报名用户可见）
 
 
@@ -14,9 +14,11 @@
 - Gui开发基础
 - 软件打包
 
+
 ## 课程案例
 
 - 在Maya中批量移动贴图文件
+
 
 ## 课程作业
 
@@ -36,6 +38,7 @@
 - 如何修改节点属性？
     - `maya_node.Attribute.set(value)`
     - `nuke_node["file"].setValue(value)`
+
 
 ## 相关资料
 
