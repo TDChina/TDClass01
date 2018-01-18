@@ -1,17 +1,17 @@
 cxfreeze.bat 
-   pip°²×°Íêcx_freezeºó£¬cmdÖĞÎŞ·¨µ÷ÓÃ cxfreezeÊ±£¬½«Õâ¸ö½Å±¾·ÅÈë python.exeËùÔÚµÄÎÄ¼ş¼ĞÏÂµÄScriptsÎÄ¼ş¼ĞÖĞ
-   ½«Scripts¼ÓÈëPATH»·¾³±äÁ¿ÖĞ
+   pipå®‰è£…å®Œcx_freezeåï¼Œcmdä¸­æ— æ³•è°ƒç”¨ cxfreezeæ—¶ï¼Œå°†è¿™ä¸ªè„šæœ¬æ”¾å…¥ python.exeæ‰€åœ¨çš„æ–‡ä»¶å¤¹ä¸‹çš„Scriptsæ–‡ä»¶å¤¹ä¸­
+   å°†ScriptsåŠ å…¥PATHç¯å¢ƒå˜é‡ä¸­
    
-   Ê¾Àı:
+   ç¤ºä¾‹:
        set PATH=C:\Python27\Scripts;%PATH% 
 
 ui-noconsole\cxfreeze_build.bat
-   ÓÃÓÚcxfreeze´ò°üÎŞconsole³ÌĞò
+   ç”¨äºcxfreezeæ‰“åŒ…æ— consoleç¨‹åº
    
-   cxfreeze_build.batÖĞµÄ²Ù×÷£º
-       cmdÖĞÖ´ĞĞ python setup.py build
+   cxfreeze_build.batä¸­çš„æ“ä½œï¼š
+       cmdä¸­æ‰§è¡Œ python setup.py build
 
 ui-with-data[pyinstaller]\pyinstaller_build.bat
-   ÓÃÓÚ´ò°ü´øÓĞ×ÊÔ´ÎÄ¼şµÄGUI³ÌĞò
-   Ìí¼Ó×ÊÔ´µÄ²¿·ÖÔÚ ui-with-data.spec µÄ 24-27 ĞĞ
+   ç”¨äºæ‰“åŒ…å¸¦æœ‰èµ„æºæ–‡ä»¶çš„GUIç¨‹åº
+   æ·»åŠ èµ„æºçš„éƒ¨åˆ†åœ¨ ui-with-data.spec çš„ 24-26 è¡Œ
    
