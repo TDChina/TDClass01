@@ -1,6 +1,6 @@
 ## 基本信息
 
-- **时长**
+- **时长** 1:45:06
 - [**课程链接**](https://ke.qq.com/webcourse/index.html#course_id=252658&term_id=100297899&taid=1549675740257010&vid=g1423orpte9)（仅报名用户可见）
 
 
