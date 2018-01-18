@@ -10,3 +10,8 @@ ui-noconsole\cxfreeze_build.bat
    
    cxfreeze_build.bat中的操作：
        cmd中执行 python setup.py build
+
+ui-with-data[pyinstaller]\pyinstaller_build.bat
+   用于打包带有资源文件的GUI程序
+   添加资源的部分在 ui-with-data.spec 的 24-27 行
+   
